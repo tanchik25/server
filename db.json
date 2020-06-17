@@ -1,4 +1,5 @@
-{ "users": [
+{ 
+  "users": [
         {
             "id": 1,
             "followed": false,
@@ -43,4 +44,5 @@
                 "city": "Philadelphia"
             }
         },
-]};
+]
+}
