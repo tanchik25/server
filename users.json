@@ -1,1 +1,46 @@
-
+{ "users": [
+        {
+            "id": 1,
+            "followed": false,
+            "fullName": "Dmitry K.",
+            "status": "I am looking for a Job right now...",
+            "img": Image11,
+            "location": {
+                "country": "Belarus",
+                "city": "Minsk"
+            },
+        },
+        {
+            "id": 2,
+            "followed": false,
+            "fullName": "Svetlana D.",
+            "status": "I am so pretty",
+            "img": Image11,
+            "location": {
+                "country": "Belarus",
+                "city": "Minsk"
+            }
+        },
+        {
+            "id": 3,
+            "followed": true,
+            "fullName": "Sergei S.",
+            "status": "I like football!",
+            "img": Image11,
+            "location": {
+                "country": "Ukraine",
+                "city": "Kiev"
+            }
+        },
+        {
+            "id": 4,
+            "followed": true,
+            "fullName": "Andrew T.",
+            "status": "I am free to help you to create good Video Production",
+            "img": Image11,
+            "location": {
+                "country": "United States",
+                "city": "Philadelphia"
+            }
+        },
+]};
