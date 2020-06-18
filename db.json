@@ -57,12 +57,12 @@
     },
     {
       "id": 6,
-      "followed": true,
+      "followed": false,
       "fullName": "Irina S.",
       "status": "Hello, World! I love Instagram!!!",
       "img": "https://marvelapp-live.storage.googleapis.com/canvas/2017/5/d01a728316cc4c8ba6c0dcad23104fcf.png",
       "location": {
-        "country": "Ukaraine",
+        "country": "Ukraine",
         "city": "Dnipro"
       }
     },
