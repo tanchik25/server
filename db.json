@@ -43,6 +43,17 @@
         "country": "United States",
         "city": "Philadelphia"
       }
+    },
+    {
+      "id": 5,
+      "followed": true,
+      "fullName": "Maxym K.",
+      "status": "I am free to help you to create good Video Production",
+      "img": "https://marvelapp-live.storage.googleapis.com/canvas/2017/5/d01a728316cc4c8ba6c0dcad23104fcf.png",
+      "location": {
+        "country": "Ukraine",
+        "city": "Dnipro"
+      }
     }
   ]
 }
