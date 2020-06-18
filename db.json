@@ -48,11 +48,44 @@
       "id": 5,
       "followed": false,
       "fullName": "Maxim K.",
-      "status": "I am free to help you to create good Video Production",
+      "status": "I love my wife :P",
       "img": "https://marvelapp-live.storage.googleapis.com/canvas/2017/5/d01a728316cc4c8ba6c0dcad23104fcf.png",
       "location": {
         "country": "Ukraine",
         "city": "Dnipro"
+      }
+    },
+    {
+      "id": 6,
+      "followed": true,
+      "fullName": "Irina S.",
+      "status": "Hello, World! I love Instagram!!!",
+      "img": "https://marvelapp-live.storage.googleapis.com/canvas/2017/5/d01a728316cc4c8ba6c0dcad23104fcf.png",
+      "location": {
+        "country": "Ukaraine",
+        "city": "Dnipro"
+      }
+    },
+    {
+      "id": 7,
+      "followed": true,
+      "fullName": "Amanda C.",
+      "status": "Your daily dose of happiness",
+      "img": "https://marvelapp-live.storage.googleapis.com/canvas/2017/5/d01a728316cc4c8ba6c0dcad23104fcf.png",
+      "location": {
+        "country": "United States",
+        "city": "Los Angeles"
+      }
+    },
+    {
+      "id": 8,
+      "followed": true,
+      "fullName": "Vitaliy P.",
+      "status": "Photographer, videographer, retoucher",
+      "img": "https://marvelapp-live.storage.googleapis.com/canvas/2017/5/d01a728316cc4c8ba6c0dcad23104fcf.png",
+      "location": {
+        "country": "Ukraine",
+        "city": "Lviv"
       }
     }
   ]
