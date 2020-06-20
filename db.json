@@ -91,7 +91,7 @@
   ],
   "profile": [
     {
-      "id": 2,
+      "id": 1,
       "bg": "http://archive.jewishagency.org/sites/default/files/our-mission-bg.gif",
       "img": "https://pm1.narvii.com/6812/b05a57f9a5ae298d9265d6bc7ebc7051f67d8564v2_hq.jpg",
       "name": "Dmitry K.",
@@ -99,6 +99,16 @@
       "city": "Minsk",
       "education": "BSU '11",
       "website": "it-kamasutra.com"
+    },
+    {
+      "id": 2,
+      "bg": "https://marvel-live.freetls.fastly.net/canvas/2018/11/926b68b39ac147cbab4adb5ec89b307b?quality=95&fake=.png",
+      "img": "https://marvel-live.freetls.fastly.net/canvas/2018/11/c54027d5b6f94e00b677113ac8bcfae6?quality=95&fake=.png",
+      "name": "Tatyana K.",
+      "birth": "25 January",
+      "city": "Dnipro",
+      "education": "Alfred Nobel University",
+      "website": "https://my-project.com"
     }
   ]
 }
