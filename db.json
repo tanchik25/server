@@ -5,7 +5,7 @@
       "followed": false,
       "fullName": "Dmitry K.",
       "status": "I am looking for a Job right now...",
-      "img": null,
+      "img": "https://pm1.narvii.com/6812/b05a57f9a5ae298d9265d6bc7ebc7051f67d8564v2_hq.jpg",
       "location": {
         "country": "Belarus",
         "city": "Minsk"
@@ -16,7 +16,7 @@
       "followed": false,
       "fullName": "Svetlana D.",
       "status": "I am so pretty",
-      "img": "https://marvelapp-live.storage.googleapis.com/canvas/2017/5/d01a728316cc4c8ba6c0dcad23104fcf.png",
+      "img": "https://gudog.s3.amazonaws.com/dog/avatar/252347/big_b764da8d-7553-4f4a-a2fe-be369912cfb8.jpeg",
       "location": {
         "country": "Belarus",
         "city": "Minsk"
@@ -27,7 +27,7 @@
       "followed": true,
       "fullName": "Sergei S.",
       "status": "I like football!",
-      "img": "https://marvelapp-live.storage.googleapis.com/canvas/2017/5/d01a728316cc4c8ba6c0dcad23104fcf.png",
+      "img": null,
       "location": {
         "country": "Ukraine",
         "city": "Kiev"
@@ -38,7 +38,7 @@
       "followed": true,
       "fullName": "Andrew T.",
       "status": "I am free to help you to create good Video Production",
-      "img": "https://marvelapp-live.storage.googleapis.com/canvas/2017/5/d01a728316cc4c8ba6c0dcad23104fcf.png",
+      "img": null,
       "location": {
         "country": "United States",
         "city": "Philadelphia"
@@ -49,7 +49,7 @@
       "followed": false,
       "fullName": "Maxim K.",
       "status": "I love my wife :P",
-      "img": "https://marvelapp-live.storage.googleapis.com/canvas/2017/5/d01a728316cc4c8ba6c0dcad23104fcf.png",
+      "img": null,
       "location": {
         "country": "Ukraine",
         "city": "Dnipro"
@@ -60,7 +60,7 @@
       "followed": false,
       "fullName": "Irina S.",
       "status": "Hello, World! I love Instagram!!!",
-      "img": "https://marvelapp-live.storage.googleapis.com/canvas/2017/5/d01a728316cc4c8ba6c0dcad23104fcf.png",
+      "img": null,
       "location": {
         "country": "Ukraine",
         "city": "Dnipro"
@@ -71,7 +71,7 @@
       "followed": true,
       "fullName": "Amanda C.",
       "status": "Your daily dose of happiness",
-      "img": "https://marvelapp-live.storage.googleapis.com/canvas/2017/5/d01a728316cc4c8ba6c0dcad23104fcf.png",
+      "img": null,
       "location": {
         "country": "United States",
         "city": "Los Angeles"
@@ -82,7 +82,7 @@
       "followed": true,
       "fullName": "Vitaliy P.",
       "status": "Photographer, videographer, retoucher",
-      "img": "https://marvelapp-live.storage.googleapis.com/canvas/2017/5/d01a728316cc4c8ba6c0dcad23104fcf.png",
+      "img": null,
       "location": {
         "country": "Ukraine",
         "city": "Lviv"
