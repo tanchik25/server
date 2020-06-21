@@ -119,6 +119,16 @@
       "city": "Minsk",
       "education": "BDAM '12",
       "website": "https://makeup.com"
+    },
+    {
+      "id": 4,
+      "cover": "https://www.gatheringbeauty.com/s/free-valentines-day-pink-red-heart-desktop-phone-wallpaper.jpg",
+      "img": null,
+      "name": "Sergei S.",
+      "birthday": "08 September",
+      "city": "Kiev",
+      "education": "KNEU '09",
+      "website": "https://facebook.com"
     }
   ]
 }
