@@ -130,5 +130,61 @@
       "education": "KNEU '09",
       "website": "https://facebook.com"
     }
+  ],
+  "profile": [
+     {
+      "id": 1,
+      "cover": "https://marvel-live.freetls.fastly.net/canvas/2018/11/926b68b39ac147cbab4adb5ec89b307b?quality=95&fake=.png",
+      "img": "https://marvel-live.freetls.fastly.net/canvas/2018/11/c54027d5b6f94e00b677113ac8bcfae6?quality=95&fake=.png",
+      "name": "Tatyana K.",
+      "birthday": "25 January",
+      "city": "Dnipro",
+      "education": "Alfred Nobel University",
+      "website": "https://my-project.com"
+    },
+    {
+      "id": 2,
+      "cover": "http://archive.jewishagency.org/sites/default/files/our-mission-bg.gif",
+      "img": "https://pm1.narvii.com/6812/b05a57f9a5ae298d9265d6bc7ebc7051f67d8564v2_hq.jpg",
+      "name": "Dmitry K.",
+      "birthday": "20 June",
+      "city": "Minsk",
+      "education": "BSU '11",
+      "website": "it-kamasutra.com"
+    },
+    {
+      "id": 3,
+      "cover": "https://www.gatheringbeauty.com/s/free-valentines-day-pink-red-heart-desktop-phone-wallpaper.jpg",
+      "img": "https://gudog.s3.amazonaws.com/dog/avatar/252347/big_b764da8d-7553-4f4a-a2fe-be369912cfb8.jpeg",
+      "name": "Svetlana D.",
+      "birthday": "13 October",
+      "city": "Minsk",
+      "education": "BDAM '12",
+      "website": "https://makeup.com"
+    },
+    {
+      "id": 4,
+      "cover": "https://compass-ssl.xboxlive.com/assets/bd/13/bd13ec1a-2a07-455e-b610-6d66e0425ed7.jpg?n=4_tb_image.jpg",
+      "img": null,
+      "name": "Sergei S.",
+      "birthday": "08 September",
+      "city": "Kiev",
+      "education": "KNEU '09",
+      "website": "https://facebook.com"
+    }
+  ],
+  "follow": [
+     {
+      "resultCode": 0,
+      "messages": ["You are already following this user"],
+      "data": {}
+    }
+  ],
+  "unfollow": [
+     {
+      "resultCode": 1,
+      "messages": ["You are already unfollowing this user"],
+      "data": {}
+    }
   ]
 }
