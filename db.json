@@ -179,8 +179,12 @@
       "messages": ["You are already following this user"],
       "data": {},
       "id": 2, 
-      "id": 3,
-      "id": 4
+    },
+    {
+      "resultCode": 0,
+      "messages": ["You are already following this user"],
+      "data": {},
+      "id": 3, 
     }
   ],
   "unfollow": [
@@ -188,9 +192,13 @@
       "resultCode": 1,
       "messages": ["You are already unfollowing this user"],
       "data": {},
-      "id": 2, 
-      "id": 3,
-      "id": 4
+      "id": 2
+    },
+     {
+      "resultCode": 1,
+      "messages": ["You are already unfollowing this user"],
+      "data": {},
+      "id": 3
     }
   ]
 }
