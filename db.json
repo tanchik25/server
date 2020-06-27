@@ -178,13 +178,13 @@
       "resultCode": 0,
       "messages": ["You are already following this user"],
       "data": {},
-      "id": 2, 
+      "id": 2 
     },
     {
       "resultCode": 0,
       "messages": ["You are already following this user"],
       "data": {},
-      "id": 3, 
+      "id": 3 
     }
   ],
   "unfollow": [
