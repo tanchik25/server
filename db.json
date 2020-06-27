@@ -185,6 +185,42 @@
       "messages": ["You are already following this user"],
       "data": {},
       "id": 3 
+    },
+    {
+      "resultCode": 0,
+      "messages": ["You are already following this user"],
+      "data": {},
+      "id": 4 
+    },
+    {
+      "resultCode": 0,
+      "messages": ["You are already following this user"],
+      "data": {},
+      "id": 5 
+    },
+    {
+      "resultCode": 0,
+      "messages": ["You are already following this user"],
+      "data": {},
+      "id": 6 
+    },
+    {
+      "resultCode": 0,
+      "messages": ["You are already following this user"],
+      "data": {},
+      "id": 7 
+    },
+    {
+      "resultCode": 0,
+      "messages": ["You are already following this user"],
+      "data": {},
+      "id": 8 
+    },
+    {
+      "resultCode": 0,
+      "messages": ["You are already following this user"],
+      "data": {},
+      "id": 9 
     }
   ],
   "unfollow": [
@@ -194,11 +230,47 @@
       "data": {},
       "id": 2
     },
-     {
+    {
       "resultCode": 1,
       "messages": ["You are already unfollowing this user"],
       "data": {},
       "id": 3
+    },
+    {
+      "resultCode": 1,
+      "messages": ["You are already unfollowing this user"],
+      "data": {},
+      "id": 4
+    },
+    {
+      "resultCode": 1,
+      "messages": ["You are already unfollowing this user"],
+      "data": {},
+      "id": 5
+    },
+    {
+      "resultCode": 1,
+      "messages": ["You are already unfollowing this user"],
+      "data": {},
+      "id": 6
+    },
+    {
+      "resultCode": 1,
+      "messages": ["You are already unfollowing this user"],
+      "data": {},
+      "id": 7
+    },
+    {
+      "resultCode": 1,
+      "messages": ["You are already unfollowing this user"],
+      "data": {},
+      "id": 8
+    },
+    {
+      "resultCode": 1,
+      "messages": ["You are already unfollowing this user"],
+      "data": {},
+      "id": 9
     }
   ]
 }
