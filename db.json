@@ -178,7 +178,7 @@
       "resultCode": 0,
       "messages": ["You are already following this user"],
       "data": {},
-      "id": 4
+      "id": [2, 3, 4, 5, 6, 7, 8, 9]
     }
   ],
   "unfollow": [
@@ -186,7 +186,7 @@
       "resultCode": 1,
       "messages": ["You are already unfollowing this user"],
       "data": {},
-      "id": 2
+      "id": [2, 3, 4, 5, 6, 7, 8, 9]
     }
   ]
 }
