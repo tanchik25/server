@@ -9,6 +9,16 @@
       "location": {
         "country": "Belarus",
         "city": "Minsk"
+      },
+      "follow": {
+        "resultCode": 0,
+        "messages": ["You are already following this user"],
+        "data": {}
+      },
+      "unfollow": {
+        "resultCode": 1,
+        "messages": ["You are already unfollowing this user"],
+        "data": {}
       }
     },
     {
