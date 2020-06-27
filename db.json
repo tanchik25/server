@@ -226,49 +226,49 @@
   "unfollow": [
      {
       "resultCode": 1,
-      "messages": ["You are already unfollowing this user"],
+      "messages": ["You are already unfollowed this user"],
       "data": {},
       "id": 2
     },
     {
       "resultCode": 1,
-      "messages": ["You are already unfollowing this user"],
+      "messages": ["You are already unfollowed this user"],
       "data": {},
       "id": 3
     },
     {
       "resultCode": 1,
-      "messages": ["You are already unfollowing this user"],
+      "messages": ["You are already unfollowed this user"],
       "data": {},
       "id": 4
     },
     {
       "resultCode": 1,
-      "messages": ["You are already unfollowing this user"],
+      "messages": ["You are already unfollowed this user"],
       "data": {},
       "id": 5
     },
     {
       "resultCode": 1,
-      "messages": ["You are already unfollowing this user"],
+      "messages": ["You are already unfollowed this user"],
       "data": {},
       "id": 6
     },
     {
       "resultCode": 1,
-      "messages": ["You are already unfollowing this user"],
+      "messages": ["You are already unfollowed this user"],
       "data": {},
       "id": 7
     },
     {
       "resultCode": 1,
-      "messages": ["You are already unfollowing this user"],
+      "messages": ["You are already unfollowed this user"],
       "data": {},
       "id": 8
     },
     {
       "resultCode": 1,
-      "messages": ["You are already unfollowing this user"],
+      "messages": ["You are already unfollowed this user"],
       "data": {},
       "id": 9
     }
